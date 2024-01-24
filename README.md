@@ -1,7 +1,7 @@
 # webmap_python
 Modelo de webmap em python com uso de shapefile armazenado na web (Github)
 
-Para abrir o código no Google Colab, clique em: <a href="https://github.com/OutputGEO/webmap_python/blob/main/webmap_python_shapes_github.ipynb" webmap_python_shapes_github.ipynb</a>
+Para abrir o código no Google Colab, clique em: https://github.com/OutputGEO/webmap_python/blob/main/webmap_python_shapes_github.ipynb
 
 No conteúdo do link acima, clique em "Open in Colab": 
 
