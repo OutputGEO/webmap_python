@@ -11,7 +11,8 @@ Link para abrir na plataforma gratuita on-line Google Colab:
 https://colab.research.google.com/github/OutputGEO/webmap_python/blob/main/webmap_python_shapes_github.ipynb#scrollTo=REm1L1mrBe_x
 
 Layout de exibição da tela:
-![image](https://github.com/OutputGEO/webmap_python/assets/150393907/3626dcd9-aca8-4a76-b414-bbded7ea1aea)
+![image](https://github.com/OutputGEO/webmap_python/assets/150393907/06ca1ca7-f57f-493c-ab14-205924e4e6e7)
+
 
 
 
