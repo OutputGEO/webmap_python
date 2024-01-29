@@ -14,7 +14,7 @@ Abrir na plataforma gratuita on-line Google Colab: [![image](https://github.com/
 
 
 Layout de exibição da tela:
-![image](https://github.com/OutputGEO/webmap_python/assets/150393907/06ca1ca7-f57f-493c-ab14-205924e4e6e7)](https://outputgeo.github.io/webmap_python/mapa_interativo.html)
+[![image](https://github.com/OutputGEO/webmap_python/assets/150393907/06ca1ca7-f57f-493c-ab14-205924e4e6e7)](https://outputgeo.github.io/webmap_python/mapa_interativo.html)
 
 
 
