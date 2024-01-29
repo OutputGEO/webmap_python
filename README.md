@@ -1,4 +1,4 @@
-### webmap_python
+
 ## Modelo de webmap em python com uso de shapefile dinâmico armazenado na web (Github)
 
 Link para acessar o mapa:
