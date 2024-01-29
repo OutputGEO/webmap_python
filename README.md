@@ -7,7 +7,7 @@ https://outputgeo.github.io/webmap_python/mapa_interativo.html
 Link para fazer download do arquivo python:
 https://github.com/OutputGEO/webmap_python/blob/main/webmap_python_shapes_github.ipynb
 
-Link para abrir na plataforma gratuita on-line Google Colab: ![image](https://github.com/OutputGEO/webmap_python/assets/150393907/4a732c30-9331-445b-90ca-c6227b738b5a)
+Link para abrir na plataforma gratuita on-line Google Colab: ![image](https://github.com/OutputGEO/webmap_python/assets/150393907/46bbb6ef-3987-46e4-a873-4848b2b676fa)
 ttps://colab.research.google.com/github/OutputGEO/webmap_python/blob/main/webmap_python_shapes_github.ipynb#scrollTo=REm1L1mrBe_x
 
 
