@@ -9,8 +9,7 @@ https://github.com/OutputGEO/webmap_python/blob/main/webmap_python_shapes_github
 
 Link para abrir na plataforma gratuita on-line Google Colab:
 https://colab.research.google.com/github/OutputGEO/webmap_python/blob/main/webmap_python_shapes_github.ipynb#scrollTo=REm1L1mrBe_x
-![image](https://github.com/OutputGEO/webmap_python/assets/150393907/03dfe98e-1460-49fd-ab5c-2e586d5fb6c0)
-
+![image](https://github.com/OutputGEO/webmap_python/assets/150393907/42e56560-c064-492b-ba9c-5e0af739c2a5)
 
 
 
