@@ -9,14 +9,11 @@ https://github.com/OutputGEO/webmap_python/blob/main/webmap_python_shapes_github
 
 Abrir na plataforma gratuita on-line Google Colab: [![image](https://github.com/OutputGEO/webmap_python/assets/150393907/b21dd78c-54c9-414d-ae8d-d836ec14eafc)](https://colab.research.google.com/github/OutputGEO/webmap_python/blob/main/webmap_python_shapes_github.ipynb#scrollTo=REm1L1mrBe_x)
 
-
-
-
-
 Layout de exibição da tela:
 [![image](https://github.com/OutputGEO/webmap_python/assets/150393907/06ca1ca7-f57f-493c-ab14-205924e4e6e7)](https://outputgeo.github.io/webmap_python/mapa_interativo.html)
 
-
+![image](https://github.com/OutputGEO/heatmap_alagamentos_geosampa_wfs/assets/150393907/66b57db3-7180-4d4d-b2f7-dd4ac73ca1a1)
+Visite nosso site: https://outputgeo.com
 
 
 
